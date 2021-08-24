@@ -1,0 +1,6 @@
+## Interface: 20501
+## Title: RaidCharmsTBC
+## Version: 0.0.1
+## Author: Rainsphere2k
+
+RaidCharmsTBC.lua

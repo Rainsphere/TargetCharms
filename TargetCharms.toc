@@ -1,6 +1,0 @@
-## Interface: 20501
-## Title: TargetCharms
-## Version: 0.0.1
-## Author: Rainsphere
-
-TargetCharms.lua
